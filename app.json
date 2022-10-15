@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "uts-pam",
+    "slug": "uts-pam",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "uts-pam"
+}
