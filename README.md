@@ -7,7 +7,7 @@ Situs belajar, diskusi dan mencari informasi.
 ### Daftar package yang digunakan (expo)
 - expo status bar
 - expo font
-- expo webview
+- expo constants
 
 ### Cara menginstall aplikasi (dalam mode pengembangan)
 
